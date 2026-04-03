@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import gymnasium as gym
+import gym
 
 ENV_ID = "MinitaurBulletEnv-v0"
 ENTRY = "pybullet_envs.bullet.minitaur_gym_env:MinitaurBulletEnv"
